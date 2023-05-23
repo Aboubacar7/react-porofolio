@@ -11,16 +11,16 @@ function Nav () {
       <h1 className="name">Aboubacar</h1>
       <ul className="nav-bar">
         <li>
-          <NavLink to="/react-porofolio/" activeClassName="active">About me</NavLink>
+          <NavLink to="/react-portfolio/" activeClassName="active">About me</NavLink>
         </li>
         <li>
-          <NavLink to="/react-porofolio/projects" activeClassName="active">Portfolio</NavLink>
+          <NavLink to="/react-portfolio/projects" activeClassName="active">Portfolio</NavLink>
         </li>
         <li>
-          <NavLink to="/react-porofolio/contact" activeClassName="active">Contact</NavLink>
+          <NavLink to="/react-portfolio/contact" activeClassName="active">Contact</NavLink>
         </li>
         <li>
-          <NavLink to="/react-porofolio/Resume" activeClassName="active">Resume</NavLink>
+          <NavLink to="/react-portfolio/Resume" activeClassName="active">Resume</NavLink>
         </li>
       </ul>
     </div>
