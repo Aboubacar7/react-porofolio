@@ -1,0 +1,19 @@
+.body{
+    background-color: rgb(73, 102, 155);
+}
+.content{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.icon{
+    color: blanchedalmond;
+    font-size: 70px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.text{
+    font-size: 20px;
+    width: 1150px;
+    margin-top: 15px;
+}
