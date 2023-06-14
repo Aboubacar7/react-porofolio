@@ -32,7 +32,7 @@ function Projects() {
                   <h2>
                     {project.name}
                     <Link className="" to ={project.link}>
-                      <i class=" fa-brands fa-github fa-bounce"></i>
+                    <Link className="" to={project.github} ><i class=" fa-brands fa-github fa-bounce"  ></i></Link>
                     </Link>
                   </h2>
                   <p>{project.description}</p>
