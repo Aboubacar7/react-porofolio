@@ -9,7 +9,7 @@ function Resume() {
       <br></br>
       <p>
         Download my
-        <Link to="https://docs.google.com/document/d/1msU6oNGW42GlprSvtAic7EveiW2MBU4B84QU_ZPHLWU/edit">
+        <Link to="https://docs.google.com/document/d/1VeFtus45do1Tnr1qrAskTr9WDinsgKqCWHKSi-qylwQ/edit">
           resume
         </Link>
       </p>
