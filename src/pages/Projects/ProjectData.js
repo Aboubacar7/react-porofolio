@@ -1,7 +1,9 @@
 import mindful from '../../assets/image/mindful-cal.jpg';
 import gather from '../../assets/image/gathernow.png';
 import tech from '../../assets/image/tech-blog.png';
-import Vapor from '../../assets/image/vaporGame.png'
+import Vapor from '../../assets/image/vaporGame.png';
+import etracker from "../../assets/image/etracker.png";
+
 export const ProjectData = [
     {
         id: 1,
@@ -37,11 +39,11 @@ export const ProjectData = [
     },
     {
         id: 5,
-        name: "Fifth project",
-        description: "This is my Fifth project",
-        img: "",
-        github: "",
-        link:'',
+        name: "E-Tracker",
+        description: "Easily manage and monitor employees, their assigned roles, and departments, all in  one place.",
+        img: etracker,
+        github: "https://github.com/Aboubacar7/e-tracker",
+        link:'https://e-traker-26dd09e8da6a.herokuapp.com/',
     },
     {
         id: 6,
