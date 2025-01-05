@@ -3,6 +3,7 @@ import gather from '../../assets/image/gathernow.png';
 import tech from '../../assets/image/tech-blog.png';
 import Vapor from '../../assets/image/vaporGame.png';
 import etracker from "../../assets/image/etracker.png";
+import scheduler from "../../assets/image/scheduler.png"
 
 export const ProjectData = [
     {
@@ -47,11 +48,11 @@ export const ProjectData = [
     },
     {
         id: 6,
-        name: "Sixth project",
-        description: "This is my Sixth project",
-        img: "",
-        github: "",
-        link:'',
+        name: "Scheduler",
+        description: "ThiAn application allowing users to create a schedule with specific description regarding upcoming events.s is my Sixth project",
+        img: scheduler,
+        github: "https://github.com/Aboubacar7/GatherNow",
+        link:'https://ab-scheduler-app-491111f1d39d.herokuapp.com/',
     },
     
 ]
